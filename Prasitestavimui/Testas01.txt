@@ -7,3 +7,4 @@ kfdlkt[t]
 git ignore
 git commit - m""
 git status 
+//galima geriau 
